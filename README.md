@@ -1,5 +1,6 @@
 # library-flutter-app
 ## How to run the app
+> Code of this app is located at lib/main.dart
 ### 1. Download the things listed below:
 1. Node.js https://nodejs.org/en
 2. Visual Studio Code https://code.visualstudio.com/
